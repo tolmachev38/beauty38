@@ -1,0 +1,131 @@
+# robots.txt — Студия красоты Елены Толмачевой
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&fbclid&from&ysclid /
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+# Нейросети и ИИ-поиск: разрешено читать сайт, чтобы студия попадала в ответы
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: YandexAdditional
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: YandexAdditionalBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: GigaBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /content/
+Disallow: /core/
+Disallow: /tools/
+
+Sitemap: https://beauty38.ru/sitemap.xml

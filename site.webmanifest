@@ -1,0 +1,27 @@
+{
+ "name": "Студия красоты Елены Толмачевой",
+ "short_name": "Студия Толмачевой",
+ "lang": "ru",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#04120E",
+ "theme_color": "#04120E",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
